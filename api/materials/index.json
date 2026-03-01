@@ -1,0 +1,71 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "attributes": {
+        "name": "10031.png",
+        "desc": null,
+        "sort": 10000,
+        "createdAt": "2025-06-15T07:13:08.121Z",
+        "updatedAt": "2025-06-15T07:14:37.706Z",
+        "publishedAt": "2025-06-15T07:14:37.702Z",
+        "img": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "1749971587395",
+              "alternativeText": null,
+              "caption": null,
+              "width": 550,
+              "height": 487,
+              "formats": {
+                "small": {
+                  "ext": ".png",
+                  "url": "/uploads/small_1749971587395_68cd4a75fb.png",
+                  "hash": "small_1749971587395_68cd4a75fb",
+                  "mime": "image/png",
+                  "name": "small_1749971587395",
+                  "path": null,
+                  "size": 124.93,
+                  "width": 500,
+                  "height": 443,
+                  "sizeInBytes": 124934
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_1749971587395_68cd4a75fb.png",
+                  "hash": "thumbnail_1749971587395_68cd4a75fb",
+                  "mime": "image/png",
+                  "name": "thumbnail_1749971587395",
+                  "path": null,
+                  "size": 24.31,
+                  "width": 176,
+                  "height": 156,
+                  "sizeInBytes": 24309
+                }
+              },
+              "hash": "1749971587395_68cd4a75fb",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 27.36,
+              "url": "/uploads/1749971587395_68cd4a75fb.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2025-06-15T07:13:07.764Z",
+              "updatedAt": "2025-06-15T07:13:07.764Z"
+            }
+          }
+        }
+      }
+    }
+    ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 27,
+      "total": 659
+    }
+  }
+}
